@@ -1,2 +1,2 @@
 # oofem-course
-Supporting repository for oofem course
+Supporting repository for oofem course.
